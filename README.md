@@ -1,0 +1,2 @@
+# eaostd
+Daily digest notes
